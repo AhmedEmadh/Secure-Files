@@ -10,6 +10,9 @@ Secure-Files is a C# application designed to provide encryption and decryption f
 
 - **Logging**: Maintain logs of encryption and decryption operations.
 
+## GUI Screenshot
+![Secure Files Screenshot](Screenshot.png)
+
 ## Getting Started
 
 ### Prerequisites
