@@ -1,0 +1,10 @@
+D:\GitHub\Encrypt-Decrypt-Files\bin\Debug\Encrypt-Decrypt-Files.exe.config
+D:\GitHub\Encrypt-Decrypt-Files\bin\Debug\Encrypt-Decrypt-Files.exe
+D:\GitHub\Encrypt-Decrypt-Files\bin\Debug\Encrypt-Decrypt-Files.pdb
+D:\GitHub\Encrypt-Decrypt-Files\obj\Debug\Encrypt-Decrypt-Files.csproj.AssemblyReference.cache
+D:\GitHub\Encrypt-Decrypt-Files\obj\Debug\Encrypt_Decrypt_Files.frmMain.resources
+D:\GitHub\Encrypt-Decrypt-Files\obj\Debug\Encrypt_Decrypt_Files.Properties.Resources.resources
+D:\GitHub\Encrypt-Decrypt-Files\obj\Debug\Encrypt-Decrypt-Files.csproj.GenerateResource.cache
+D:\GitHub\Encrypt-Decrypt-Files\obj\Debug\Encrypt-Decrypt-Files.csproj.CoreCompileInputs.cache
+D:\GitHub\Encrypt-Decrypt-Files\obj\Debug\Encrypt-Decrypt-Files.exe
+D:\GitHub\Encrypt-Decrypt-Files\obj\Debug\Encrypt-Decrypt-Files.pdb
